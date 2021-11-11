@@ -172,6 +172,20 @@
       }
     },
     {
+        "chainId": 101,
+        "address": "ExR2SPYJHY6cbe8gzAzuWegb3Ez9VRSKzxY9dtvpCvJF",
+        "symbol": "N8TKN",
+        "name": "N8 TOKEN",
+        "decimals": 1,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ExR2SPYJHY6cbe8gzAzuWegb3Ez9VRSKzxY9dtvpCvJF/logo.png",
+        "tags": [
+          "social-token"
+        ],
+        "extensions": {
+         "website": "https://https://www.temporary-url.com/5C957/"
+    }
+},    
+    {
       "chainId": 101,
       "address": "6TgvYd7eApfcZ7K5Mur7MaUQ2xT7THB4cLHWuMkQdU5Z",
       "symbol": "OTR",
